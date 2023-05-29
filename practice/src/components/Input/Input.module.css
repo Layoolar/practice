@@ -1,0 +1,25 @@
+/* Input.module.css */
+
+.inputContainer {
+    margin-bottom: 10px;
+    text-align: left;
+    display: flex;
+    align-items: end;
+    justify-content: space-between;
+  }
+  
+  .label {
+    font-weight: bold;
+    flex: 0 0 auto; 
+    margin-right: 10px;
+  }
+  
+  .input {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    margin-top: 0.5rem;
+    flex: 1 1 auto;
+  }
+  
